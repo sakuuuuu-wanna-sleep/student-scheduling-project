@@ -1,0 +1,155 @@
+teacher,name,period,class size
+Beardsley (RH-306),Humanities 9: English,Q1/3 P1,15
+Beardsley (RH-306),Advanced English Language Learning,Q1/3 P2,3
+Beardsley (RH-306),Honors Humanities 12,Q1/3 P3,15
+Beardsley (RH-306),Humanities 12,Q2/4 P2,20
+Beardsley (RH-306),Humanities 9: English,Q2/4 P3,15
+Bussey (RH-313),Humanities 9: English,Q2/4 P1,15
+Bussey (RH-313),Humanities 9: English,Q1/3 P4,15
+Bussey (RH-313),Humanities 9: English,Q2/4 P2,15
+Bussey (RH-313),Humanities 9: English,Q2/4 P4,15
+Clark (RH-312),Humanities 9: History,Q1/3 P1,15
+Clark (RH-312),ADV.SEM: Comparative Religion,Q1/3 P3,15
+Clark (RH-312),Humanities 9: History,Q2/4 P2,15
+Clark (RH-312),ADV.SEM: Comparative Religion,Q2/4 P3,15
+deBrito,Humanities 9: History,Q2/4 P1,15
+deBrito,Humanities 9: History,Q1/3 P4,15
+deBrito,Humanities 9: History,Q2/4 P3,15
+Dumansky (RH-307),American Studies: English,Q1/3 P1,8
+Dumansky (RH-307),American Studies: English,Q1/3 P2,8
+Dumansky (RH-307),Humanities 9: History,Q2/4 P4,15
+Murray,Honors Humanities 12,Q1/3 P4,15
+Murray,Honors Humanities 12,Q2/4 P2,15
+Robertson,ADV.SEM: 21st Century Citizenship,Q2/4 P2,20
+Shoup (SCAS-111),Humanities 10,Q1/3 P1,14
+Shoup (SCAS-111),Humanities 10,Q1/3 P2,14
+Shoup (SCAS-111),ADV.SEM: State-building & Post-Colonial Societies,Q2/4 P4,20
+Simeone (SCAS-112),Honors Humanities 12,Q2/4 P3,15
+Simeone (SCAS-112),American Studies: English,Q1/3 P4,8
+Simeone (SCAS-112),American Studies: English,Q1/3 P2,8
+Taylor (RH-400),American Studies: English,Q1/3 P1,8
+Taylor (RH-400),American Studies: English,Q1/3 P3,8
+Webster (SCAS-114),Humanities 10,Q1/3 P1,14
+Webster (SCAS-114),Humanities 10,Q1/3 P3,14
+Webster (SCAS-114),Honors European History,Q1/3 P2,20
+Webster (SCAS-114),Honors European History,Q2/4 P3,20
+Wiseman (RH-318),Humanities 10,Q1/3 P2,14
+Wiseman (RH-318),Humanities 10,Q1/3 P3,14
+Zunka,Honors Humanities 12,Q2/4 P4,15
+Brodie (SCAS-113),Continuing Studies in Ceramics,Q2/4 P2,15
+Brodie (SCAS-113),Foundations of Ceramics,Q1/3 P2,15
+Brodie (SCAS-113),Foundations of Ceramics,Q1/3 P3,15
+Brodie (SCAS-113),Foundations of Painting & 2D Design,Q2/4 P3,15
+Brodie (SCAS-113),Continuing Studies in Ceramics,Q2/4 P4,15
+Esposito (Grisham),Philharmonic Strings,Q2/4 P1,40
+Nichols (SCAS-215),Saints Chorale,Q1/3 P4,35
+Nichols (SCAS-215),Music Theory,Q1/3 P1,15
+Nichols (SCAS-215),AP Music Theory,Q1/3 P2,15
+Nichols (SCAS-215),Concert Choir,Q2/4 P2,25
+Phillips (SCAS-116),Foundations of Painting & 2D Design,Q1/3 P1,15
+Phillips (SCAS-116),Foundations of Drawing & 2D Design,Q1/3 P2,15
+Phillips (SCAS-116),Continuing Studies in Drawing Painting & 2D Design,Q2/4 P2,8
+Phillips (SCAS-116),Continuing Studies in Drawing Painting & 2D Design,Q2/4 P4,8
+Stoner (SCAS-213),Continuing Studies in Digital Media Arts,Q1/3 P1,8
+Stoner (SCAS-213),Foundations of Digital Media Arts,Q1/3 P2,20
+Stoner (SCAS-213),Foundations of Digital Media Arts,Q1/3 P3,20
+Stoner (SCAS-213),Continuing Studies in Digital Media Arts,Q2/4 P2,20
+Stoner (SCAS-213),Foundations of Digital Media Arts,Q2/4 P3,20
+Watson (SCAS-211),Advanced English Language Learning,Q2/4 P1,3
+Watson (SCAS-211),Continuing Studies in Theatre Arts,Q1/3 P4,25
+Watson (SCAS-211),Theatre Arts,Q1/3 P1,25
+Watson (SCAS-211),Dramatic Literature and Writing,Q1/3 P3,15
+Ruff,Study Skills,Q1/3 P1,15
+Ruff,Study Skills,Q1/3 P2,15
+Ruff,Study Skills,Q1/3 P3,15
+Ruff,Study Skills,Q2/4 P3,15
+Speidel,Life Skills,Q1/3 P2,25
+Speidel,Life Skills,Q2/4 P2,25
+Speidel,Life Skills,Q2/4 P4,25
+Bartholomew (RH-302),Honors Integrated Mathematics 2,Q2/4 P1,17
+Bartholomew (RH-302),Honors Integrated Mathematics 2,Q1/3 P4,17
+Bartholomew (RH-302),Integrated Mathematics 4,Q1/3 P2,12
+Bartholomew (RH-302),Integrated Mathematics 4,Q1/3 P3,12
+Bartholomew (RH-302),Integrated Mathematics 4,Q2/4 P4,12
+Bennett (RH-300),AP Calculus AB,Q2/4 P1,14
+Bennett (RH-300),AP Calculus AB,Q1/3 P4,14
+Bennett (RH-300),AP Calculus AB,Q1/3 P2,14
+Bennett (RH-300),Integrated Mathematics 3,Q1/3 P3,12
+Bennett (RH-300),Integrated Mathematics 3,Q2/4 P2,12
+Corwin (RH-304),Integrated Mathematics 2,Q2/4 P1,20
+Corwin (RH-304),Integrated Mathematics 1,Q1/3 P4,15
+Corwin (RH-304),Integrated Mathematics 2,Q1/3 P2,20
+Corwin (RH-304),Integrated Mathematics 3,Q1/3 P1,12
+Corwin (RH-304),Integrated Mathematics 3,Q2/4 P4,12
+Kolosieke,Economics,Q1/3 P1,15
+Kolosieke,Economics,Q2/4 P4,15
+Lippmann (RH-200),AP Calculus AB,Q2/4 P1,14
+Lippmann (RH-200),Honors Integrated Mathematics 2,Q1/3 P4,17
+Lippmann (RH-200),Honors Integrated Mathematics 3,Q1/3 P2,19
+Lippmann (RH-200),Honors Integrated Mathematics 3,Q2/4 P3,19
+Lippmann (RH-200),Honors Integrated Mathematics 3,Q2/4 P4,19
+McAvoy (SCAS-212),Computer Science Principles,Q2/4 P1,25
+McAvoy (SCAS-212),Computer Science Principles,Q1/3 P3,25
+McAvoy (SCAS-212),Honors Data Structures,Q1/3 P2,15
+McAvoy (SCAS-212),Honors Software Engineering,Q2/4 P3,15
+McAvoy (SCAS-212),Honors Data Structures,Q2/4 P4,15
+Remchuk (RH-202),AP Calculus BC,Q2/4 P1,19
+Remchuk (RH-202),AP Calculus BC,Q1/3 P4,19
+Remchuk (RH-202),AP Calculus BC,Q1/3 P3,19
+Remchuk (RH-202),Honors Differential Equations,Q2/4 P4,20
+Ross (RH-204),AP Statistics,Q2/4 P1,19
+Ross (RH-204),AP Statistics,Q1/3 P4,19
+Ross (RH-204),AP Statistics,Q1/3 P2,19
+Ross (RH-204),AP Statistics,Q1/3 P3,19
+Beardsley (SCAS-200),AP Chemistry,Q2/4 P1,18
+Beardsley (SCAS-200),AP Chemistry,Q1/3 P4,18
+Beardsley (SCAS-200),Advanced Biology,Q1/3 P1,20
+Beardsley (SCAS-200),Advanced Biology,Q2/4 P3,20
+Jarry (SCAS-201),Advanced Biology,Q2/4 P1,20
+Jarry (SCAS-201),Advanced Biology,Q1/3 P2,20
+Jarry (SCAS-201),Advanced Biology,Q2/4 P2,20
+Jarry (SCAS-201),ADV.SEM: BioTechnology and Ethics,Q1/3 P1,12
+Jarry (SCAS-201),ADV.SEM: BioTechnology and Ethics,Q2/4 P4,12
+Johnson (SCAS-101),ADV.SEM: Enviro. Studies & Research,Q1/3 P4,14
+Johnson (SCAS-101),ADV.SEM: Enviro. Studies & Research,Q1/3 P1,14
+Johnson (SCAS-101),ADV.SEM: Enviro. Studies & Research,Q2/4 P2,14
+Johnson (SCAS-101),ADV.SEM: Enviro. Studies & Research,Q2/4 P3,14
+Mahoney (SCAS-100),Advanced Chemistry,Q1/3 P4,16
+Mahoney (SCAS-100),Advanced Chemistry,Q2/4 P3,16
+Mahoney (SCAS-100),Advanced Physics,Q1/3 P3,20
+Mahoney (SCAS-100),Advanced Physics,Q2/4 P4,20
+Perriello (SCAS-202),Advanced Chemistry,Q1/3 P4,16
+Perriello (SCAS-202),Advanced Chemistry,Q1/3 P1,16
+Perriello (SCAS-202),Advanced Chemistry,Q1/3 P2,16
+Perriello (SCAS-202),Advanced Chemistry,Q2/4 P2,16
+Troy (SCAS-206),AP Physics C,Q2/4 P1,17
+Troy (SCAS-206),AP Physics C,Q1/3 P1,17
+Troy (SCAS-206),AP Physics C,Q1/3 P2,17
+Troy (SCAS-206),Advanced Physics,Q1/3 P3,20
+Troy (SCAS-206),Advanced Physics,Q2/4 P2,20
+Troy (SCAS-206),Advanced Physics,Q2/4 P3,20
+Herrero (RH-03),AP Spanish Language,Q2/4 P1,20
+Herrero (RH-03),Honors Spanish 2,Q1/3 P4,23
+Herrero (RH-03),Honors Spanish 2,Q1/3 P1,23
+Herrero (RH-03),Honors Spanish 3,Q2/4 P3,14
+Herrero (RH-03),AP Spanish Language,Q1/3 P3,20
+Iturbe,Honors Spanish 5: Adv. Literature/Honors Spanish 6: Lit Film Current Evts,Q2/4 P2,20
+Lezama (RH-01),Spanish 2,Q2/4 P1,16
+Lezama (RH-01),Spanish 2,Q1/3 P4,16
+Lezama (RH-01),Spanish 1,Q1/3 P1,20
+Lezama (RH-01),Spanish 3,Q1/3 P3,13
+Lezama (RH-01),Spanish 3,Q2/4 P3,13
+Reeves (RH-100),Honors French 3,Q1/3 P1,20
+Reeves (RH-100),French 3,Q2/4 P4,20
+Reeves (RH-100),AP French Language,Q1/3 P3,20
+Reeves (RH-100),French 4/5/H,Q2/4 P3,20
+Visscher-Gingerich (RH-102),Spanish 4/5,Q2/4 P1,16
+Visscher-Gingerich (RH-102),Spanish 4/5,Q1/3 P4,16
+Visscher-Gingerich (RH-102),Honors Spanish 3,Q1/3 P2,14
+Visscher-Gingerich (RH-102),Honors Spanish 3,Q1/3 P3,14
+Visscher-Gingerich (RH-102),Honors Spanish 3,Q2/4 P3,14
+Wendling (RH-106),French 1,Q2/4 P1,20
+Wendling (RH-106),Latin 4/5,Q1/3 P1,20
+Wendling (RH-106),French 2,Q2/4 P2,13
+Wendling (RH-106),French 2,Q2/4 P4,13
+Graves,ADV.SEM: Entrepreneurship,Q2/4 P2,20
